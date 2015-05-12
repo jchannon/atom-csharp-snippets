@@ -1,0 +1,19 @@
+{
+  "name": "csharp-snippets",
+  "main": "./lib/main",
+  "version": "0.0.1",
+  "description": "C# Snippets",
+  "keywords": [
+    "snippets",
+    "csharp",
+    "C#",
+    ".net"
+  ],
+  "activationCommands": {},
+  "repository": "https://github.com/jchannon/atom-csharp-snippets",
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  },
+  "dependencies": {}
+}
